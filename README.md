@@ -13,6 +13,22 @@ Please follow these instructions very carefully.
 
 ## Tips
 
+- Here's what it looks like to clone it straight from Github Desktop right in github.com
+
+![Image description](/images/openWithGithubDesktop.png)
+
 - Using github desktop is super dangerous if you don't pay attention to the folder that it clones your local repository into.
-- You can repeat this as many times as you wish, you'll just have to delete the repositories from your github when they start feeling like clutter.
+
+![Image description](/images/danger.png)
+
+## Should I repeat Assignment0?
+
+Whatever it takes to make this process easy ... one option is to keep going back and repeating this process.
+
+- Assignment0b
+- Assignment0c
+- Assignment0d
+- Assignment0e
+
+You can repeat this as many times as you wish, you'll just have to delete the repositories from your github when they start feeling like clutter.
 
