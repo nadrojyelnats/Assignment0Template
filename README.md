@@ -66,7 +66,7 @@ At this time, we do not review Assignment0, it is for your personal education on
 
 ## Extra Credit
 
-Learning how to path images (or any files, for that matter) is a frequent stumbling block for new coders. To illustrate this point, please examine this document and see how all of the images are pathed in this markup file, from the images directory. Such as `/images/complete.png` above.
+Learning how to path images (or any files, for that matter) is a frequent stumbling block for new coders. To illustrate this point, please examine this document and see how all of the images are pathed in this markup file, from the images directory. Such as `/images/complete.jpg` above.
 
 For extra credit even before you will need it on Assignment 1, place a photograph of yourself in the images directory and make it show properly, such as below.
 
@@ -74,7 +74,7 @@ Hopefully your smile will look every bit as dorky as mine.
 
 ![Image description](/images/wpic.jpg)
 
-File path problems are very typical for most students in assignments 1 and 3. This is a good thing to learn early and get out of the way. If you don't understand how I got `/images/Pete.png` as the file path feel free to consult bard or chatgpt or any other AI.
+File path problems are very typical for most students in assignments 1 and 3. This is a good thing to learn early and get out of the way. If you don't understand how I got `/images/Pete.jpg` as the file path feel free to consult bard or chatgpt or any other AI.
 
 ## Tips
 
