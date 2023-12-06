@@ -45,7 +45,7 @@ You can view text and the Preview version at the same time by clicking the butto
 ![Image description](/images/preview.png)
 
 Resulting in a preview at right, like this:
-![Image description](/images/preview.png)
+![Image description](/images/likeso.png)
 
 ### 5. Make changes
 
