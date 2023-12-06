@@ -51,7 +51,7 @@ Resulting in a preview at right, like this:
 
 - a. Change `# Assignment 0 Instructions` to `# John Smith` substituting your proper name for `John Smith`
 - b. Commit and push up to github using the lessons that Trevor gives you on Github Desktop. Refresh the github page, and examine to see if you like it (excepting instructions still showing).
-- c. If you want to do the extra credit, do that before the next step because you will need it for pathing help.
+- c. If you want to do the extra credit (see below), do that before the next step because you will need it for pathing help.
 - d. Delete all the instructions text from this file.
 - e. Push up to github again, refresh and examine.
 - f. [repeat until satisfied with result per below.]
