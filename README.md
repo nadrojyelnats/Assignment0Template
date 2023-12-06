@@ -76,10 +76,6 @@ Hopefully your smile will look every bit as dorky as mine.
 
 File path problems are very typical for most students in assignments 1 and 3. This is a good thing to learn early and get out of the way. If you don't understand how I got `/images/Pete.jpg` as the file path feel free to consult bard or chatgpt or any other AI.
 
-## Tips
-
-
-
 ## Should I repeat Assignment0?
 
 This is something close to a 10 minute assignment once you get the hang of it. There is every reason for you to want to get this stuff into muscle memory early, because every assignment gets committed to github! 
@@ -93,5 +89,5 @@ For example
 - Assignment0d
 - Assignment0e
 
-You can d0 this as many times as you wish, you'll just have to delete the repositories from your github when they start feeling like clutter. 
+You can d0 this as many times as you wish, you'll just have to delete the repositories from your github when they start feeling like clutter. Allow for about 20-30 seconds to delete a repository from github, once you learn it.
 
