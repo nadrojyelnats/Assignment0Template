@@ -82,12 +82,16 @@ File path problems are very typical for most students in assignments 1 and 3. Th
 
 ## Should I repeat Assignment0?
 
-Whatever it takes to make this process easy ... one option is to keep going back and repeating this process.
+This is something close to a 10 minute assignment once you get the hang of it. There is every reason for you to want to get this stuff into muscle memory early, because every assignment gets committed to github! 
+
+You may save time, in the end, by repeating this assignment until it gets super easy and boring.
+
+For example
 
 - Assignment0b
 - Assignment0c
 - Assignment0d
 - Assignment0e
 
-You can repeat this as many times as you wish, you'll just have to delete the repositories from your github when they start feeling like clutter.
+You can d0 this as many times as you wish, you'll just have to delete the repositories from your github when they start feeling like clutter. 
 
