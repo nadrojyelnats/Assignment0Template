@@ -25,7 +25,7 @@ If your github handle was `petecarapetyan` and you had a dark theme this is what
 
 ![Image description](/images/openWithGithubDesktop.jpg)
 
-3. Clone this down to your local box _**inside your coders campus workspace directory**_ being very careful to place it exactly there!
+### 3. Clone this down to your local box _**inside your coders campus workspace directory**_ being very careful to place it exactly there!
 
 
 - Using github desktop is super dangerous if you don't pay attention to the folder that it clones your local repository into!!!!!
